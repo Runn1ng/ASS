@@ -1,3 +1,3 @@
-# GT-ASS
+# ASS (Automatic service student)
 
 Репозиторий с заданиями 
